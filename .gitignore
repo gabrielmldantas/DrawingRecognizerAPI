@@ -1,0 +1,4 @@
+*~
+__pycache__
+resources/datasets/*.npy
+.DS_Store
